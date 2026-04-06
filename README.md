@@ -88,6 +88,8 @@ Your Windows Defender might block the file. There are several issues that make t
 
 > The best way to use it right now is to run the source code. That is, install python, run a single cmd command "pip install pynput", and then just run the raw run.py file. But if you have the possibility to run the exe file, it would be appreciated as it would speed up the approval of the calc.exe file.
 
+> Virus Total Links: [only .exe file](https://www.virustotal.com/gui/file/c5897e79a359aef1a769b8ab04c2326422d9213f1589ee74416561ca8307e1d3) | [.zip method (in Releases)](https://www.virustotal.com/gui/file/3e855a77b3434fffbdbdd0a3f9c6685987004db9cc44a23d8b503c9a1ebaeb0e)
+
 ---
 
 ## 🎮 How to Use

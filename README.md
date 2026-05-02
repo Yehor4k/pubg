@@ -5,6 +5,11 @@
 A lightweight Python utility designed to help players calculate precise artillery distances in PUBG. By calibrating to the in-game grid, the tool provides accurate measurements from your current position to your target.
 
 
+🔴 The exe file and .zip contain [<ins>false-positives</ins>](https://en.wikipedia.org/wiki/False_positives_and_false_negatives#False_positive_error) on [Virustotal](https://www.virustotal.com/gui/file/c5897e79a359aef1a769b8ab04c2326422d9213f1589ee74416561ca8307e1d3). See [🛡️ The Windows Defender issue](#🛡️-The-Windows-Defender-issue) for more information.
+
+🔴 Since this project is open-sourced and if you do not want to download .exe or .zip files, and you are familiar with python and cmd; you are free to download run.py(aka source code) file and its dependencies and run the calculator via cmd.
+
+
 <table>
 <tr>
    <td><b>Support Project</b></td>
